@@ -1,3 +1,3 @@
-Find The Word
+Find The Word: Puzzle Game
 
-A simple to play word finding puzzle game for iOS
+For questions or support, email seb.gamache@gmail.com 
